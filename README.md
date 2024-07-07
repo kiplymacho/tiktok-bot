@@ -18,14 +18,15 @@
   
 ---------------------------------------
 
-### Features
-* Follow Bot
-* View Bot
-* Like Bot
-* Share Bot
-* Favorite Video Bot
-* Comment Likes Bot
-* Video statistics (Views, likes, comments, shares)
+### Fitur
+* Ikuti Bot
+* Lihat Bot
+* Seperti Bot
+* Bagikan Bot
+* Bot Video Favorit
+* Bot Suka Komentar
+* Statistik video (Tayangan, suka, komentar, bagikan)
+* Pemecahan captcha otomatis gratis
 * **Free automatic captcha solve**
 
 ---------------------------------------
