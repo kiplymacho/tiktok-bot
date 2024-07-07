@@ -40,11 +40,12 @@ Buka `!start.bat` berkas dengan Python.
 
 ---------------------------------------
 ### Please note: Important
-1. I do not own the website `zefoy.com` and I am incapable of making some services online/offline.
-2. This Python project is simply an automator with requests for a website I do not own.
-3. This script was made for educational purposes
-4. I am not responsible for your actions
-5. This post from : <a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">Flowsidee</a>
+Harap diperhatikan: Penting
+Saya tidak memiliki situs web tersebut `zefoy.com` dan saya tidak dapat menjalankan beberapa layanan secara daring/luring.
+Proyek Python ini hanyalah sebuah automator dengan permintaan untuk situs web yang bukan milik saya.
+Skrip ini dibuat untuk tujuan pendidikan
+Saya tidak bertanggung jawab atas tindakan Anda
+Posting ini dari: <a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">Flowsidee</a>
 
 ---------------------------------------
 ### Main Issues & Problems
