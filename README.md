@@ -39,8 +39,7 @@ Buka `config.json` ubah url ke milik Anda, service dengan ( Anda akan melihat la
 Buka `!start.bat` berkas dengan Python.
 
 ---------------------------------------
-### Please note: Important
-Harap diperhatikan: Penting
+# Harap diperhatikan: Penting
 Saya tidak memiliki situs web tersebut `zefoy.com` dan saya tidak dapat menjalankan beberapa layanan secara daring/luring.
 Proyek Python ini hanyalah sebuah automator dengan permintaan untuk situs web yang bukan milik saya.
 Skrip ini dibuat untuk tujuan pendidikan
@@ -48,9 +47,6 @@ Saya tidak bertanggung jawab atas tindakan Anda
 Posting ini dari: <a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">Flowsidee</a>
 
 ---------------------------------------
-### Main Issues & Problems
-
-* Struggling to install Python or PIP? Watch this video <a href="https://youtu.be/dYfKJMPNMDw?t=52">here</a>. 
-* 502 Bad Gateway Error: `Zefoy.com blocked it either because of a VPN/proxy or maybe your country is blocked.`
-
-
+# Masalah & Permasalahan Utama
+* Kesulitan menginstal Python atau PIP? Tonton video ini di <a href="https://youtu.be/dYfKJMPNMDw?t=52">sini</a>.
+* Kesalahan 502 Bad Gateway:`Zefoy.com blocked it either because of a VPN/proxy or maybe your country is blocked`.
