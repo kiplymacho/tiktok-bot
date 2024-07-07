@@ -8,7 +8,7 @@
   <h2 align="center">TikTok Automator Bot</h3>
 
   <p align="center">
-    TikTok automator using zefoy.com for <b>followers, views, likes, shares and more</b>
+    Otomatisasi TikTok menggunakan zefoy.com untuk pengikut, tampilan, suka, bagikan, dan lainnya</b>
     <br />
     <br />
     <a href="https://github.com/TawsifXD/Tiktok_Bot/issues">Report Bugs</a>
