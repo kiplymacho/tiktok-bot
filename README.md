@@ -32,7 +32,7 @@
 ---------------------------------------
 
 ### Cara Penggunaan
-Instal Python dari sini <a href="https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe">here</a> . Sangat penting untuk Add Python to PATHmencentang kotak saat pengaturan.
+Instal Python dari <a href="https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe">sini</a> . Sangat penting untuk Add Python to PATHmencentang kotak saat pengaturan.
 Setelah Python terinstal, Anda perlu menginstal modul yang diperlukan yang digunakan untuk skrip ini.
 Buka file bernama !install_libs.bat. Ini akan melakukan segalanya untuk Anda tanpa masalah, mudah.
 Buka config.json ubah urlke milik Anda, servicedengan ( Anda akan melihat layanan yang tersedia saat Anda menjalankan kode )
