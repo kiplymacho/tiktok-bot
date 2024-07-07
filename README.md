@@ -31,13 +31,12 @@
 
 ---------------------------------------
 
-### How to use
-
-1. Install Python from <a href="https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe">here</a>. It is super important that checkbox `Add Python to PATH` is checked on setup.
-2. After Python is installed, you need to install the required modules that are used for this script. 
-3. Open the file called `!install_libs.bat`. This will do everything for you with no issues, simple.
-4. Open config.json change `url` to your, `service` by your (**you will see the available services when you run the code**)
-5. Open the `!start.bat` file with Python. 
+### Cara Penggunaan
+Instal Python dari sini <a href="https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe">here</a> . Sangat penting untuk Add Python to PATHmencentang kotak saat pengaturan.
+Setelah Python terinstal, Anda perlu menginstal modul yang diperlukan yang digunakan untuk skrip ini.
+Buka file bernama !install_libs.bat. Ini akan melakukan segalanya untuk Anda tanpa masalah, mudah.
+Buka config.json ubah urlke milik Anda, servicedengan ( Anda akan melihat layanan yang tersedia saat Anda menjalankan kode )
+Buka !start.batberkas dengan Python.
 
 ---------------------------------------
 ### Please note: Important
